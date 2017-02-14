@@ -1,10 +1,21 @@
 # Handbuch Jugend-Hackathons
+
+### German
+
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Paula Glaser, Maria Reimer, Daniel Seitz für [Open Knowledge Foundation Deutschland e.V.](http://www.okfn.de) und [mediale pfade.org – Verein für Medienbildung e.V.](http://www.medialepfade.org) 
 
 Gefördert durch die Jugend- und Familienstiftung des Landes Berlin im Rahmen des Jugend-Demokratiefonds Berlin. Diese Förderung bedeutet nicht zwangsläufig, dass die Stiftung den Ergebnissen und Aussagen des Textes zustimmt.
 
 [Hier](https://jugendhackt.github.io/Handbuch-Jugend-Hackathons) geht es zur Webseite des Handbuchs.
 
+
+### English
+
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Paula Glaser, Maria Reimer, Daniel Seitz for [OKF DE](http://www.okfn.de) and [mediale pfade.org](http://www.medialepfade.org). Graphics: [glashaus4](http://glashaus4.de/). Webdesign: [rhotep](https://github.com/rhotep). Editor (German version): Robert Behrendt. Translated into English by: [Matthias Bauer](https://moeffju.net/).
+
+Sponsored by the Youth and Family Foundation of the State of Berlin within the Youth Democracy Fund Berlin. This support does not necessarily mean that the Foundation agrees with the results and statements of the text.
+
+This handbook is available [as a GitHub repository](https://github.com/Jugendhackt/Handbuch-Jugend-Hackathons/).
 
 
 ## How to add translations
