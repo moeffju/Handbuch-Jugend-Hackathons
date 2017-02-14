@@ -1,0 +1,20 @@
+---
+title: "Youth-specific adaptations of the format"
+number: "2.6"
+---
+    
+A characteristic feature of hackathons is the self-determination of the participants. That is why the original format from the professional or “adult” world is kept very open in many places. New arrivals are required to find their own role in the event. In order not to overwhelm the young participants at the beginning, we have therefore developed numerous adaptations of the format in "Jugend hackt", which in particular simplify the arrival and immersion in the event, without putting into question the fundamental character of self-determination. In Chapter 3, we will discuss the different adaptations in the respective phases. Following we will therefore only give an overview of the modules that differ from “typical” hackathons.
+
+The mentors play a central role. They support the participants throughout the weekend in the implementation of their ideas and the development of their abilities. The mentors - mostly developers without a pedagogical background - are specially trained for this task and thus receive the toolset to accompany the young people well. As permanent contact persons, they provide the young people with assistance during arrival and the course of the event. As mentors - usually working in companies or the free software scene, which can represent a future perspective for the young hackers - they also give professional and moral orientation.
+
+Intensity of care is constantly reduced over the course of the event. The beginning is still very much designed with frontal instructions in the form of lectures and intended to help the participants settle in. It is only after the brainstorming phase that the young people become active. The mentors only accompany the process, which is designed by the participants themselves. From the coding & hacking phase, the project and their own learning progress is then in the hands of the young people.
+
+The phase of brainstorming is strongly structured. This helps with orientation and allows all young people to contribute. Through the multi-part process and the selection of the actual project by the participants taking place only on the following day, everyone can freely decide - according to the preferred topic, existing skills and implementation strategies of the group, but also according to the desired group composition.
+
+There is a transparent learning model in "Jugend hackt". In our evaluation, we were able to identify four main concerns (such as "more networking with others" or "learning more about technology"). These are weighted by the young people themselves and made visible in the form of stickers on the backs of the participants. In this way, the mentors can support the achievement of the self-determined learning objectives - and we shift the focus away a bit from the product orientation of a regular hackathon, towards the process orientation of the youth hackathon.
+
+As with other hackathons, there are parallel workshop tracks or lightning talks. In our youth hackathons, we chose the form of lightning talks – short inputs to topic-specific topics of 15 minutes length. Participation is optional and they are designed in a way such that everyone can participate without missing anything in their own project.
+
+The competition aspects are purposefully reduced - contrary to regular hackathons, where the money and material prices are often a great incentive, we would like to pay attention to different aspects of hacking through very low-end awards, e.g. for the smartest idea or the most beautiful design.
+
+Shouldering the educational responsibilities for the weekend has implications for requirements of the protection of minors, such as fixed beginning and especially end times every day, privacy protections and so on. For this, see chapter 3.8.1.

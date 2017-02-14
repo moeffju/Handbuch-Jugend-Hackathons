@@ -9,6 +9,10 @@ collections:
         output: true
         permalink: /chapters_nl/:path/
         language: nl
+    chapters_en-US:
+        output: true
+        permalink: /chapters_en-US/:path/
+        language: en-US
 
 defaults:
   - scope:
@@ -17,5 +21,9 @@ defaults:
         layout: chapter
   - scope:
         type: chapters_nl
+    values:
+        layout: chapter
+  - scope:
+        type: chapters_en-US
     values:
         layout: chapter
