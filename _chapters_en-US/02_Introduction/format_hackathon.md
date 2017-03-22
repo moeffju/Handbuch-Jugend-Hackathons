@@ -1,5 +1,5 @@
 ---
-title: "Das Format Hackathon"
+title: "The hackathon format"
 number: "2.5"
 ---
 
