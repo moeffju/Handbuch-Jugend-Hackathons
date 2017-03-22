@@ -1,4 +1,4 @@
 ---
-title: "Phasen"
+title: "Phases"
 number: "3"
 ---
